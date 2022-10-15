@@ -1,1 +1,1 @@
-# messaging-queue
+# RabbitMq
